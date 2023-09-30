@@ -11,6 +11,20 @@
         <content type="html"><![CDATA[<blockquote><p>这篇博客用来记录一下c语言中的socket编程</p></blockquote>]]></content>
       
       
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+            <tag> C </tag>
+            
+        </tags>
       
     </entry>
     
